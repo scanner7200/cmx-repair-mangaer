@@ -1,0 +1,17 @@
+/*
+Theme Name: CMX Repair Manager Pro
+Theme URI: https://computermechanix.net
+Author: Computer Mechanix
+Description: A professional, high-performance repair shop management system for CMX.
+Version: 2.0.0
+License: GNU General Public License v2 or later
+Text Domain: cmx-repair
+*/
+
+/* Reset for WordPress environment */
+html, body, #root {
+  height: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+}

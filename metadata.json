@@ -1,0 +1,5 @@
+{
+  "name": "CMX Repair Manager",
+  "description": "A comprehensive repair shop management system for Computer Mechanix (CMX), featuring customer tracking, device management, ticketing, invoicing, and membership management.",
+  "requestFramePermissions": []
+}

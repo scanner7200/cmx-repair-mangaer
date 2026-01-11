@@ -1,0 +1,18 @@
+
+{
+  "customers": [],
+  "devices": [],
+  "tickets": [],
+  "invoices": [],
+  "appointments": [],
+  "users": [
+    { 
+      "id": "u1", 
+      "name": "Shop Owner", 
+      "role": "Admin", 
+      "email": "admin@cmx.com", 
+      "password": "1234" 
+    }
+  ],
+  "trash": []
+}
